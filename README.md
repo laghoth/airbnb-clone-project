@@ -80,3 +80,20 @@ A user-friendly design improves the customer journey, increases conversion rates
 ### 🧠 Importance of Identifying Design Properties
 
 Identifying the design properties of a mockup (like colors and typography) is essential to ensure consistency across all pages and components. It helps developers maintain visual identity, enhances user experience, and simplifies collaboration between designers and developers.
+
+## 👥 Project Roles and Responsibilities
+
+| Role                    | Responsibilities                                                           |
+| ----------------------- | -------------------------------------------------------------------------- |
+| **Project Manager**     | Oversees project timeline, coordinates the team, manages deliverables      |
+| **Frontend Developers** | Implements UI components, ensures responsive and accessible design         |
+| **Backend Developers**  | Develops APIs, manages database, implements business logic                 |
+| **Designers**           | Creates UI/UX mockups, maintains design system, ensures usability          |
+| **QA/Testers**          | Writes and executes tests, reports bugs, ensures overall quality           |
+| **DevOps Engineers**    | Manages CI/CD pipeline, cloud infrastructure, deployment                   |
+| **Product Owner**       | Defines requirements, prioritizes features, communicates with stakeholders |
+| **Scrum Master**        | Facilitates Agile process, organizes standups, removes blockers            |
+
+### 🎯 Why Roles Matter
+
+Clearly defining team roles improves collaboration, avoids confusion, and ensures each area of the project is covered efficiently. It’s key to the success of a team-based project.
