@@ -1,4 +1,4 @@
-# 🏠 StayEase: Airbnb Clone Project OTHMANE LAGHLIMI
+# 🏠 StayEase: Airbnb Clone Project
 
 ## 🧠 Project Overview
 
