@@ -97,3 +97,29 @@ Identifying the design properties of a mockup (like colors and typography) is es
 ### 🎯 Why Roles Matter
 
 Clearly defining team roles improves collaboration, avoids confusion, and ensures each area of the project is covered efficiently. It’s key to the success of a team-based project.
+
+
+## 🧩 UI Component Patterns
+
+In this project, we aim to build a reusable and scalable UI architecture. Below are some of the core UI components we plan to create:
+
+### 🔝 Navbar
+- Logo
+- Search bar
+- User navigation (Login, Profile)
+- Responsive menu (hamburger menu for small screens)
+
+### 🏡 Property Card
+- Property image
+- Price, location, rating
+- Favorite (heart) button
+- Fully responsive layout
+
+### 📜 Footer
+- Site links (Home, About, Contact)
+- Company information
+- Social media icons
+- Copyright information
+
+### 🎯 Why Component Planning is Important
+Planning UI components helps in reusability, consistency, and maintainability of the interface. It also allows for easier collaboration among team members and faster development.
