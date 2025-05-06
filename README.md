@@ -59,6 +59,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 A user-friendly design improves the customer journey, increases conversion rates, and enhances satisfaction. Clear navigation, responsive layouts, and smooth booking flow are essential for success.
 
 ### 🎨 Color Styles
+
 - **Primary:** `#FF5A5F`
 - **Secondary:** `#008489`
 - **Background:** `#FFFFFF`
@@ -66,6 +67,7 @@ A user-friendly design improves the customer journey, increases conversion rates
 - **Secondary Text:** `#717171`
 
 ### 🔤 Typography
+
 - **Primary Font:** Circular
 - **Font Weights:**
   - Book (400)
@@ -76,5 +78,5 @@ A user-friendly design improves the customer journey, increases conversion rates
   - Headings: 24px - 32px
 
 ### 🧠 Importance of Identifying Design Properties
-Identifying the design properties of a mockup (like colors and typography) is essential to ensure consistency across all pages and components. It helps developers maintain visual identity, enhances user experience, and simplifies collaboration between designers and developers.
 
+Identifying the design properties of a mockup (like colors and typography) is essential to ensure consistency across all pages and components. It helps developers maintain visual identity, enhances user experience, and simplifies collaboration between designers and developers.
