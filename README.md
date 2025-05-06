@@ -29,3 +29,31 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 - Git & GitHub for version control
 - Figma for UI/UX design
+
+## 🎨 UI/UX Design Planning
+
+### 🧭 Design Goals
+
+- Create intuitive booking flow
+- Maintain visual consistency
+- Ensure fast loading times
+- Prioritize mobile responsiveness
+
+### ⭐ Key Features
+
+- Property search and filtering
+- Detailed property viewing
+- Secure checkout process
+- User authentication
+
+### 🧱 Primary Pages
+
+| Page                  | Description                                            |
+| --------------------- | ------------------------------------------------------ |
+| Property Listing View | Grid display of available properties with filters      |
+| Listing Detailed View | Complete property details with images and booking form |
+| Simple Checkout View  | Streamlined payment and booking confirmation           |
+
+### 💡 Importance of User-Friendly Design
+
+A user-friendly design improves the customer journey, increases conversion rates, and enhances satisfaction. Clear navigation, responsive layouts, and smooth booking flow are essential for success.
